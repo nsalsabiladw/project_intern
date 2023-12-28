@@ -1,6 +1,8 @@
 # project_intern
 
-A new Flutter project.
+Mini mobile app project to apply for an internship at suitmedia
+Salma Salsabila Dwinta - Mobile Dev
+more info: salsabiladwinta0@gmail.com
 
 ## Getting Started
 
